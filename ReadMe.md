@@ -4,7 +4,7 @@ This is a set of textures to be used with Kopernicus to help modders create high
 
 To contribute, all textures must:
   * Be in dds format
-  * include both color and normal maps
+  * Include both color and normal maps
   * Be no larger than 2048x2048 
   
  **Do not change or remove any textures currently included in CTTP.**
