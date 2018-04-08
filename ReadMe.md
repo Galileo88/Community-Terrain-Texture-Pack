@@ -13,7 +13,7 @@ To contribute, all textures must:
 
 v1.0.3
 
-- Repathed all textures with GameData/CTTP/Textures/PluginData folder for OnDemand compatibility.
+- Repathed all textures with GameData/CTTP/Textures/PluginData folder to ensure further extensibility and ensure file extension issue with Kopernicus does not occur.
 
 **License & Credits**
 
