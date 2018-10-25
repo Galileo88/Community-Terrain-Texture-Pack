@@ -1,1 +1,12 @@
-{"NAME":"Community Terrain Texture Pack","URL":"http://ksp-avc.cybutek.net/version.php?id=518","DOWNLOAD":"https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases","CHANGE_LOG_URL":"https://github.com/Galileo88/Community-Terrain-Texture-Pack","VERSION":{"MAJOR":1,"MINOR":0,"PATCH":3,"BUILD":0},"KSP_VERSION":{"MAJOR":1,"MINOR":4,"PATCH":2},"KSP_VERSION_MIN":{"MAJOR":1,"MINOR":3,"PATCH":0},"KSP_VERSION_MAX":{"MAJOR":1,"MINOR":4,"PATCH":2}}
+{
+    "NAME":"Community Terrain Texture Pack",
+    "URL":"https://raw.githubusercontent.com/Galileo88/Community-Terrain-Texture-Pack/master/GameData/CTTP/CommunityTerrainTexturePack.version",
+    "DOWNLOAD":"https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases",
+    "CHANGE_LOG_URL":"https://raw.githubusercontent.com/Galileo88/Community-Terrain-Texture-Pack/master/ReadMe.md",
+    "VERSION":{
+        "MAJOR":1,
+        "MINOR":0,
+        "PATCH":4,
+        "BUILD":0
+    }
+}
